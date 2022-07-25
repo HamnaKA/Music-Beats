@@ -3,8 +3,11 @@
 # python project
 
    Users-Admin
+   <br>
         user
+    <br>
         music company
+        <br>
 Admin- approve/reject music company
      - view approved music company list
 user-  Register and login 
